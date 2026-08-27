@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/glei4134-collab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=550&lines=Applied+Mathematics+Major;High-Performance+AI+%26+Quant+Systems+Developer;TensorRT+Acceleration+%7C+Real-time+Vision;Distributed+Multi-Agent+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&width=550&lines=Applied+Mathematics+Major;High-Performance+AI+%26+Quant+Systems+Developer;TensorRT+Acceleration+%7C+Real-time+Vision;Applied+Cryptography+%26+Steganography" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,15 +16,15 @@
 
 - 🎓 **教育背景**：数学与应用数学专业本科在读（Junior Year, Applied Mathematics）
 - 🚀 **研究与实践方向**：
-  - **数理与量化智能 (Quant & Mathematical Modeling)**：时间序列预测、多因子选股模型、实时交易模拟与风控
+  - **数理与量化智能 (Quant & Mathematical Modeling)**：时间序列预测、多因子选股模型、实时交易模拟与自动化风控
   - **计算机视觉与底层加速 (CV & TensorRT Acceleration)**：Direct3D 实时图形捕获、模型算子级量化 (FP16/INT8)、毫秒级低延迟端到端推理
-  - **多智能体与分布式架构 (Multi-Agent Systems)**：基于 ACP 协议的 Agent 身份认证通信、异步消息总线、服务负载均衡
   - **信息安全与数字隐写 (Steganography & Security)**：频域与矩阵变换数字隐写算法、API 防护网关
+  - **开源工程基建 (Open Source Infrastructure)**：轻量级现代化组件库开发、国际化与多端协同工具
 - 💬 **技术哲学**：坚信扎实的数学理论是算法创新的上限，极致的工程架构是价值落地的基石。
 
 ---
 
-### 🏆 精选代表作 (Featured Projects)
+### 🏆 精选代表作 (Featured Projects - 100% Original)
 
 <table>
   <tr>
@@ -64,14 +64,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/glei4134-collab/agentcp">AgentCP — 分布式多智能体 SDK</a></h4>
-      <p>基于 ACP 协议的 Multi-Agent 身份认证与通信协同框架。</p>
+      <h4>📦 <a href="https://github.com/glei4134-collab/react-simple-i18n">react-simple-i18n — 轻量级国际化库</a></h4>
+      <p>面向 React 生态的高性能、零依赖现代化国际化组件库。</p>
       <ul>
-        <li>解决多 Agent 间的分布式身份验证 (AID) 与端到端安全会话</li>
-        <li>支持异步消息处理、多 Agent 协同任务调度与内网穿透负载均衡</li>
+        <li>极致轻量（Zero Dependency），提供极简 Hook 与 Context 响应式方案</li>
+        <li>支持动态语言包懒加载与嵌套键值解析，保障大规模组件树流畅渲染</li>
       </ul>
       <p>
-        <code>Multi-Agent</code> <code>Distributed Systems</code> <code>ACP Protocol</code> <code>Python</code>
+        <code>TypeScript/JS</code> <code>React</code> <code>Open Source</code> <code>Zero-Dependency</code>
       </p>
     </td>
   </tr>
