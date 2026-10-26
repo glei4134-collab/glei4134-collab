@@ -35,7 +35,7 @@
 - **语言 / 数据**：Python、SQL、pandas、NumPy
 - **后端 / 工程**：Flask、REST API、SQLite、Git、GitHub Actions、Docker、Railway
 - **移动端**：Android / Kotlin
-- **AI 协作**：Codex（CLI）、Claude Code、Gemini CLI、OpenClaw、Trae、CodeBuddy、Qoder
+- **AI 协作**：Codex（CLI）、Claude Code、Gemini CLI、Trae、CodeBuddy、Qoder
 
 ---
 
