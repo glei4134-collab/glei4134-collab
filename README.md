@@ -36,11 +36,11 @@
 - **后端 / 工程**：Flask、REST API、SQLite、Git、GitHub Actions、Docker、Railway
 - **移动端**：Android / Kotlin
 - **AI 协作**：Codex、Claude Code、Gemini、Trae、CodeBuddy、Qoder
-- **AI 应用**：Prompt Engineering、LLM API、MCP 协议、Agent Skill
+- **AI 应用**：Prompt Engineering、LLM API、MCP 协议、Agent Skill 封装
 
 ---
 
 ## 📫 联系
 
-- 邮箱：1754407753@qq.com
+- 邮箱：qq1754407753@163.com
 - 求职：AI 应用开发 / AI 产品实习生（2028 届，寒假实习）
